@@ -1,18 +1,21 @@
-## Getting Started
+# Bootcamp DECOLA tech 2025
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Pilares de linguagem de programação orientada a objetos
 
-## Folder Structure
+Programação orientada a objetos
 
-The workspace contains two folders by default, where:
+1. Classe e Obejto
+2. Encapsulamento
+3. Abstraçcão
+4. Herança
+5. Polimorfismo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Escolha a sua IDE - Ambinete de desenvolvimento integrado
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+pontos a considerar:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Formatação de palavras e blocos de código internacional
+- Análise de erro de sintaxe
+- Compilação de programa
+- Depuração
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
